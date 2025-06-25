@@ -1,1 +1,1 @@
-# jamilly
+Esse projeto foi desenvolvido utilizando a biblioteca p5.js para criar um jogo interativo educativo e divertido. Onde o jogador assume o papel de um jardineiro responsável por plantar árvores e controlar a temperatura do ambiente
